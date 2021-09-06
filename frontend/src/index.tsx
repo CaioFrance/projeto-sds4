@@ -5,7 +5,7 @@ import '@popperjs/core'
 import 'bootstrap/dist/css/bootstrap.css'
 import './assets/css/index.css'
 
-import App from './App';
+import {App} from './App';
 
 ReactDOM.render(
   <React.StrictMode>
